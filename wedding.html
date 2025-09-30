@@ -78,9 +78,9 @@
     const photoTab = document.getElementById('photoTab');
     const seatingTab = document.getElementById('seatingTab');
     const now = new Date();
-    const utcHour = now.getUTCHours();
-    const isAfter4pmEST = utcHour >= 20; // 4 PM EST = 20 UTC
-    let currentCSV = isAfter4pmEST ? seatingUrl : photoUrl;
+    const localHour = now.getHours();
+    const isAfter2pmLocal = localHour >= 14;
+    let currentCSV = isAfter2pmLocal ? seatingUrl : photoUrl;
     let currentData = [];
     let nameSortAsc = true;
     let groupSortAsc = true;
