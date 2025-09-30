@@ -5,7 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Event Viewer</title>
   <style>
-    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; background: white; }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      background-image: url('monogram.svg');
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: contain;
+    }
     .tab-bar {
       display: flex;
       justify-content: center;
@@ -29,6 +36,7 @@
     }
     .container {
       padding: 2em;
+      opacity: 0.8;
     }
     input[type="text"] {
       width: 100%;
@@ -184,4 +192,5 @@
     }
   </script>
 </body>
+
 </html>
