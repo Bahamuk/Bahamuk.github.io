@@ -11,7 +11,8 @@
       background-image: url('monogram.svg');
       background-repeat: no-repeat;
       background-position: center center;
-      background-size: contain;
+      background-attachment: fixed; /* Prevent the background from moving when scrolling */
+      background-size: contain; /* Fill the backgroudn space without clipping */
     }
     .tab-bar {
       display: flex;
@@ -36,7 +37,7 @@
     }
     .container {
       padding: 2em;
-      opacity: 0.8;
+      opacity: 0.8; /* Semi-transparent to allow seeing the monogram */
     }
     input[type="text"] {
       width: 100%;
