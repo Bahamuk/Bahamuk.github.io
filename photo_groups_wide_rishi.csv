@@ -13,8 +13,8 @@ Mukund Savaliya,Naresh Shah,Rushit Bhimani,Rushit Bhimani,Ahnika Funk,Ramanlal D
 ,Ishan Patel,Kena Radadia,Kena Radadia,Snehal Sheladia,Ketu Patel,,Hiral Kanani,Shaan Patel,Gulab Patel,Babulal Ukani,Damyanti Sangani,Nirmali Shah,Bakul Patel,Kushal Parbadia,,,,Riya Patel,Om Patel,Usha Patel
 ,,Chirag Radadia,Chirag Radadia,Chirag Sheladia,Rohan Kumar,,Sandeep Rajpara,Mamta Gajera,Hari Patel,Pinal Patel,Kirit Moradia,Mehul Shah,Bhavna Dhaduk,Rajal Parbadia,,,,Balubhai Patel,Shrushti Patel,Ilaben Patel
 ,,Aarav Radadia,Aarav Radadia,Nilam Domadia,Hema Funk,,Isha Rajpara,Manish Gajera,Riya Patel,Ritesh Patel,Shilpa Moradia,Revati Narawane,Chetan Dhaduk,Hiten Patel,,,,Hansaben Patel,Chetan Patel,Dimple Patel
-,,Aanav Radadia,Aanav Radadia,Viha Domadia,Max Funk,,Aarohi Rajpara,Tanish Gajera,,Reyaan Patel,Rina Suvagia,Krutarth Gohel,Prabha Navadia,Geeta Patel,,,,Dilip Patel,Maiphatbhai Patel,Ramanlal Patel
-,,Akhil Savaliya,Akhil Savaliya,Avyay Domadia,Dev Funk,,Vraj Rajpara,Ansh Gajera,,Aarav Patel,Kanti Devani,Sai Cheekireddy,Hasmukh Navadia,Haresh Patel,,,,Ansyua Patel,Keyur Patel,Nirav Mulani
+,,Aanav Radadia,Aanav Radadia,Viha Domadia,Max Funk,,Aarohi Rajpara. Vraj Rajpara,Tanish Gajera,,Reyaan Patel,Rina Suvagia,Krutarth Gohel,Prabha Navadia,Geeta Patel,,,,Dilip Patel,Maiphatbhai Patel,Ramanlal Patel
+,,Akhil Savaliya,Akhil Savaliya,Avyay Domadia,Dev Funk,,,Ansh Gajera,,Aarav Patel,Kanti Devani,Sai Cheekireddy,Hasmukh Navadia,Haresh Patel,,,,Ansyua Patel,Keyur Patel,Nirav Mulani
 ,,Nirali Ribadia,Nirali Ribadia,Parbha Patel,Leena Funk,,,,,Vilas Mangukiya,Harsha Devani,Sean Healy,Tina Kakadia,Nirmala Patel,,,,Shilen Patel,Anita Patel,Kishor Mulani
 ,,Jill Shah,Jill Shah,Dhiraj Domadia,Ahnika Funk,,,,,Ghanshyam Mangukiya,Sonal Ramani,Eric Stonecipher,Vijay Kakadia,Kamlaben Kalathia,,,,Zarna Patel,Kabir Patel,Saritaben Mulani
 ,,Mukund Savaliya,Mukund Savaliya,Hansa Domadia,Hansa Patel,,,,,Ayushi Mangukiya,Mayur Ramani,Nicole Siliko,Mehul Ghelani,Ranjan Patel,,,,Deep Patel,Chandrikaben Patel,Krishna Mulani
@@ -39,3 +39,30 @@ Mukund Savaliya,Naresh Shah,Rushit Bhimani,Rushit Bhimani,Ahnika Funk,Ramanlal D
 ,,,,,,,,,,,Nilesh Kotak,Neel Goyal,Yogitha Chareddy,,,,,,Gulab Patel,Ramesh Mulani
 ,,,,,,,,,,,Nilesh Patel,Puja Goyal,Ipsa Patel,,,,,,Hari Patel,Rupalben Mulani
 ,,,,,,,,,,,Daxa Patel,Vinod Punyani,Mukund Savaliya,,,,,,Riya Patel,Shaunak Mulani
+,,,,,,,,,,,Kapila Sutaria,Yuliana Nalysnyk,Jill Shah,,,,,,Balubhai Patel,Sheetal Mulani
+,,,,,,,,,,,Hiralal Sutaria,Arya Punyani,Prem Dhaduk,,,,,,Hansaben Patel,Laksh Mulani
+,,,,,,,,,,,Ila Sangani,Zoya Punyani,Radha Dhaduk,,,,,,Dilip Patel,Ramanlal Domadia
+,,,,,,,,,,,Ghanshyam Sangani,Katherine Hunt-Ridley,Zalak Navadia,,,,,,Ansyua Patel,Gita Domadia
+,,,,,,,,,,,,Narvan Shorish,Dhara Navadia,,,,,,Shilen Patel,Ishan Patel
+,,,,,,,,,,,,Ryan Ippolito,Naitik Navadia,,,,,,Zarna Patel,Ashok Patel
+,,,,,,,,,,,,Sana Qureshi,Soha Kakadia,,,,,,Deep Patel,Smita Patel
+,,,,,,,,,,,,Sania Qureshi,Aarav Ghelani,,,,,,Shaan Patel,Anjali Patel
+,,,,,,,,,,,,Shohab Qureshi,Arya Ghelani,,,,,,Mamta Gajera,Avni Patel
+,,,,,,,,,,,,Waqas Javaid,Jeet Thakrar,,,,,,Manish Gajera,Ayush Patel
+,,,,,,,,,,,,Ariba Hazari,Mihir Thakrar,,,,,,Tanish Gajera,Raju Patel
+,,,,,,,,,,,,Jack Kerns,Arjawam Zalavadia,,,,,,Ansh Gajera,Gulab Patel
+,,,,,,,,,,,,Sarah Kerns,Arushi Zalavadia,,,,,,,Hari Patel
+,,,,,,,,,,,,Aneksha Sinha,Kriya Patel,,,,,,,Riya Patel
+,,,,,,,,,,,,Saurav Puri,Kairav Mishra,,,,,,,Balubhai Patel
+,,,,,,,,,,,,Myuran Seharaseyoon,Gia Patel,,,,,,,Hansaben Patel
+,,,,,,,,,,,,Janani Selvaraj,Maya Patel,,,,,,,Dilip Patel
+,,,,,,,,,,,,Marina Zabowski,,,,,,,,Ansyua Patel
+,,,,,,,,,,,,Nick Nassiri,,,,,,,,Shilen Patel
+,,,,,,,,,,,,Elliot Seiler,,,,,,,,Zarna Patel
+,,,,,,,,,,,,Amy Hallaron,,,,,,,,Deep Patel
+,,,,,,,,,,,,Shaun-Dae Clark,,,,,,,,Shaan Patel
+,,,,,,,,,,,,Nicole Stroner,,,,,,,,Mamta Gajera
+,,,,,,,,,,,,Chris Ismirle,,,,,,,,Manish Gajera
+,,,,,,,,,,,,Dharmil Patel,,,,,,,,Tanish Gajera
+,,,,,,,,,,,,Charmi Patel,,,,,,,,Ansh Gajera
+,,,,,,,,,,,,Karan Patel,,,,,,,,
